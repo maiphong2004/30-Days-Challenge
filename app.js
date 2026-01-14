@@ -1,0 +1,1 @@
+console.log("Hello Node.js! Chào mừng bạn đến với Backend.");
